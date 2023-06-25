@@ -1,4 +1,4 @@
-### Question classification COMP61332 Text Mining Running Instruction
+### Question classification Running Instruction
 
 The whole document contains three sub folders:
 1. **data**: The data folder contains the config files, datasets (train.txt, dev.txt, test.txt, train_550.label.txt), output files, preprocessing files ( vocab, stopwords and labels .etc.)
